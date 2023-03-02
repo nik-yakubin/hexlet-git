@@ -1,1 +1,1 @@
-in the process
+in the process of learning Git
